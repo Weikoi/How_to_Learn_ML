@@ -1,2 +1,2 @@
-# How_to_Learn_ML
-How to learn Machine Learning? Data Collected from Web
+# 怎样学习机器学习
+机器学习方向的资料收集
